@@ -18,6 +18,7 @@ Simple implementation of finite state machine in Verilog.
 - When Switch 1 is on, the LED switch when the counter is reach the maximum value. The direction is initial state -> L0 -> L1 -> L2 -> L3 -> initial state...
 - When Switch 0 is on, the direction reverse.
 - At any state, when pause is pressed, the state should remain the same.
+- If Switch1 and Switch0 is both on or both off, LEDs will move to the initial state.
 
 ## Components
 ### 8-bit Counter

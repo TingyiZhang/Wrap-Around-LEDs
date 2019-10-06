@@ -2,6 +2,7 @@
 Simple implementation of finite state machine in Verilog.  
 - Hardware: Basys3 FPGA board   
 - Software: Vivado  
+- Programming language: Verilog
 
 ## Inputs
 - Reset

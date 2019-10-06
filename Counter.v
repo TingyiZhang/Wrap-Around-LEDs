@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: Boston University
-// Engineer: Tingyi Zhang, tingyi97@bu.edu
+// Engineer: Tingyi Zhang
 // 
 // Create Date: 09/26/2019 04:15:10 PM
 // Design Name: 

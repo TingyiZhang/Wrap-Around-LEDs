@@ -25,9 +25,21 @@ Simple implementation of finite state machine in Verilog.
 
 ### Clock Divider
 - It receive 100MHz clock signal as input, and generate 1Hz clock signal as output.  
-- In this project, we use Basys3 FPGA board, it includes a single 100MHz oscillator.
+- In this project, we use Basys3 FPGA board, it includes a single 100MHz oscillator, on pin W5.
 
 ### Top module
 - State machine programming
 
 ## Test waveform
+### 8-bit Counter
+<img src="https://github.com/TingyiZhang/Wrap-Around-LEDs/blob/master/8bitcounter.png">
+
+### Clock divider
+<img src="https://github.com/TingyiZhang/Wrap-Around-LEDs/blob/master/clockdivider.png">
+
+### Top module
+<img src="https://github.com/TingyiZhang/Wrap-Around-LEDs/blob/master/wraparoundleds.png">
+We increase the frequancy to 100Hz for this test case.
+
+## State diagram
+<img src="https://github.com/TingyiZhang/Wrap-Around-LEDs/blob/master/statediagram.png">
